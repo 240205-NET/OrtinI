@@ -1,0 +1,14 @@
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.exe
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.deps.json
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.runtimeconfig.json
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.dll
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\bin\Debug\net6.0\StringManipulationChallenge.pdb
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.AssemblyInfoInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.AssemblyInfo.cs
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.csproj.CoreCompileInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.dll
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\refint\StringManipulationChallenge.dll
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.pdb
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\StringManipulationChallenge.genruntimeconfig.cache
+D:\Users\Ian\Documents\Projects\240205-NET\Trainer_Code\W1\CodeChallenges\01_StringManipulation\StringManipulationChallenge\obj\Debug\net6.0\ref\StringManipulationChallenge.dll

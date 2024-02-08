@@ -1,0 +1,14 @@
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\bin\Debug\net7.0\Serializer.exe
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\bin\Debug\net7.0\Serializer.deps.json
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\bin\Debug\net7.0\Serializer.runtimeconfig.json
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\bin\Debug\net7.0\Serializer.dll
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\bin\Debug\net7.0\Serializer.pdb
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.AssemblyInfoInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.AssemblyInfo.cs
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.csproj.CoreCompileInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.dll
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\refint\Serializer.dll
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.pdb
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\Serializer.genruntimeconfig.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Serializer\obj\Debug\net7.0\ref\Serializer.dll

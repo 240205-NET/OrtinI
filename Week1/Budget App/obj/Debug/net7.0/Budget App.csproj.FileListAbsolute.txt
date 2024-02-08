@@ -1,0 +1,4 @@
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Budget App\obj\Debug\net7.0\Budget App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Budget App\obj\Debug\net7.0\Budget App.AssemblyInfoInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Budget App\obj\Debug\net7.0\Budget App.AssemblyInfo.cs
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Budget App\obj\Debug\net7.0\Budget App.csproj.CoreCompileInputs.cache
