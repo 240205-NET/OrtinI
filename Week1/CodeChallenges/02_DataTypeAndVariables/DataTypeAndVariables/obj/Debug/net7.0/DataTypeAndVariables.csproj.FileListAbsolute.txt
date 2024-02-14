@@ -1,0 +1,14 @@
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.exe
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.deps.json
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.runtimeconfig.json
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.dll
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.pdb
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.AssemblyInfoInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.AssemblyInfo.cs
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.csproj.CoreCompileInputs.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.dll
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\refint\DataTypeAndVariables.dll
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.pdb
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.genruntimeconfig.cache
+D:\Users\Ian\Documents\Projects\240205-NET\OrtinI\Week1\CodeChallenges\02_DataTypeAndVariables\DataTypeAndVariables\obj\Debug\net7.0\ref\DataTypeAndVariables.dll

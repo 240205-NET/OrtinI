@@ -24,7 +24,8 @@ namespace DataTypeAndVariables
 
       public static int Text2Num(string numText)
       {
-        throw new NotImplementedException();
+        //throw new NotImplementedException();
+        return Int32.Parse(numText);
       }
     }
 }

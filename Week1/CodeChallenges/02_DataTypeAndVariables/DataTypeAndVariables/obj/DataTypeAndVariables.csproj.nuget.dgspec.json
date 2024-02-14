@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\Trainer_Code\\W1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj": {}
+    "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\OrtinI\\Week1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\Trainer_Code\\W1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj": {
+    "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\OrtinI\\Week1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\Trainer_Code\\W1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj",
+        "projectUniqueName": "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\OrtinI\\Week1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj",
         "projectName": "DataTypeAndVariables",
-        "projectPath": "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\Trainer_Code\\W1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj",
+        "projectPath": "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\OrtinI\\Week1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\DataTypeAndVariables.csproj",
         "packagesPath": "C:\\Users\\Ian the Superb Guy\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\Trainer_Code\\W1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\obj\\",
+        "outputPath": "D:\\Users\\Ian\\Documents\\Projects\\240205-NET\\OrtinI\\Week1\\CodeChallenges\\02_DataTypeAndVariables\\DataTypeAndVariables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
